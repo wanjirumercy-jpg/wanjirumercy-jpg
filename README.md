@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wanjirumercy-jpg
+- 👋 Hi, I’m Wanjiru Mercy
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Tensor Flow
 - 💞️ I’m looking to collaborate on Machine learning
