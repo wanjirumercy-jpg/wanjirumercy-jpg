@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Tensor Flow
 - 💞️ I’m looking to collaborate on Machine learning
-- 📫 How to reach me wanjiru427@gmail.com
+- 📫 How to reach me wanjiru427m@gmail.com
 
 
 <!---
